@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Comic Sans MS', 'Arial Rounded', sans-serif;
+    background-color: #fff0f5;
+    padding: 20px;
+}
+
+.container {
+    max-width: 700px;
+    margin: 40px auto;
+    background: rgba(255, 255, 255, 0.85);
+    padding: 30px;
+    border-radius: 30px;
+    border: 3px dashed #ffb6c1;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #ffb6c1;
+    margin: 0 auto 15px;
+    display: block;
+}
+
+h1 {
+    color: #ff85a2;
+    text-align: center;
+}
+
+.interest-tag {
+    background-color: #ffb6c1;
+    color: white;
+    padding: 5px 12px;
+    border-radius: 15px;
+    display: inline-block;
+    margin: 5px;
+}
