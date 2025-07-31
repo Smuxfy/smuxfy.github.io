@@ -1,6 +1,0 @@
-MIT License
-
-Copyright (c) [year] [fullname]
-
-Permission is hereby granted...
-[rest of MIT license text]
